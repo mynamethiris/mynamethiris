@@ -17,4 +17,4 @@
 
 # 📱 Devices
 ![Android Q](https://img.shields.io/badge/Android%20Q-34A853?style=flat-square&logo=android&logoColor=white)
-![Asus Zenfone Max Pro M2](https://img.shields.io/badge/Asus%20Zenfone%20Max%20Pro%20M2-FFD700?style=flat-square)
+![Asus Zenfone Max Pro M2](https://img.shields.io/badge/X01BD/A-FFFFFF?style=flat-square&logo=asus&logoColor=black)
